@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Serene AI: Guided Meditation Generator",
+  "description": "Create personalized guided meditation sessions with unique AI-generated visuals and voiceovers. This application uses Gemini to generate a meditation script, a serene background image, and a calming audio narration based on your chosen theme.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
